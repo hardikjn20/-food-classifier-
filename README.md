@@ -4,7 +4,7 @@ A modern web application that uses artificial intelligence to analyze food image
 
 ## 🔗 Live Demo
 
-**Live App:** [Add your Vercel deployment URL here after deploying]
+**Live App:** [https://food-classifier-lg6u5fsy8-am-80b6.vercel.app](https://food-classifier-lg6u5fsy8-am-80b6.vercel.app)
 
 ## ✨ Features
 
